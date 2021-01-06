@@ -42,6 +42,7 @@
 * 登录[领京豆](https://bean.m.jd.com/)；
 * 点击`JDCookie`即可拷贝京东cookie；
 
+
 ## 获取Server酱SCKEY
 
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
